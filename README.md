@@ -29,3 +29,9 @@ Ensure you have the following Python libraries installed:
 ```bash
 pip install pandas numpy scikit-learn
 ```
+
+## Future Improvements
+- Tune hyperparameters for better performance.
+- Use feature engineering to extract more insights from existing data.
+- Try different models like Logistic Regression, XGBoost, or Neural Networks.
+
